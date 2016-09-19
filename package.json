@@ -1,0 +1,12 @@
+{
+  "name": "find-my-rokus",
+  "version": "1.0.0",
+  "description": "Node module to find a roku device.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["roku", "ssdp", "udp", "dgram"],
+  "author": "walkerrandolphsmith@gmail.com",
+  "license": "ISC"
+}
